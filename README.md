@@ -45,7 +45,7 @@ The idea behind investing in MFs is you want to get better returns than if you h
 
 #### Diversification
 
-Keep your money distributed among different types of financial instruments like: fixed deposits, savings account, MFs, commodities, gold, real estate etc. (don't have to include all of them 😄, just an example). This is so your risk is distributed and the effects of a market crash in one sector (eg. real estate), are mitigated by investments in other sectors *(This is what mutual funds do by the way)*.<br>
+Keep your money distributed among different types of financial instruments like: fixed deposits, savings account, MFs, commodities, gold, real estate etc. (don't have to include all of them 😄, just an example). This is so your risk is distributed and the effects of a market crash in one sector (eg. real estate), are mitigated by investments in other sectors *(this is what mutual funds do by the way)*.<br>
 For the nerds: [Modern Portfolio Theory - Diversification](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 #### Medical Emergencies
