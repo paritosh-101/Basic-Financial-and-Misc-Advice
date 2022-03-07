@@ -5,7 +5,7 @@ Collection of basic financial information and advice about managing your money a
 
 ### Index Funds
 
-Index funds are mutual funds (MF) that are a collection of stocks (portfolio) of the companies that have the greatest influence on the market and ultimately affect its performance. They are agood place to start investing your money for the longer run (> 10 years).
+Index funds are mutual funds (MF) that are a collection of stocks (portfolio) of the companies that have the greatest influence on the market and ultimately affect its performance. They are a good place to start investing your money for the longer run (> 10 years).
 
 ### Investing in Mutual Funds
 
@@ -19,7 +19,7 @@ Index funds are mutual funds (MF) that are a collection of stocks (portfolio) of
 
 ![NAV Graph](images/graph.png)
 
-Don't get mislead by graphs. What goes up must come down. What you are looking for is stable growth over a number of years instead of sudden growths that look appealing.<br><br>
+Don't get mislead by graphs. What goes up must come down. What you are looking for is stable growth over a number of years instead of sudden growths that look appealing. *This graph is not the best example of the point I'm trying to make.*<br><br>
 
 ![Portfolio](images/distribution1.png)
 ![Portfolio](images/distribution2.png)
@@ -45,7 +45,7 @@ The idea behind investing in MFs is you want to get better returns than if you h
 
 #### Diversification
 
-Keep your money distributed among different types of financial instruments like: fixed deposits, savings account, MFs, commodities, gold, real estate etc. (don't have to include all of them 😄, just an example). This is so your risk is distributed and the effects of a market crash in one sector (eg. real estate), are mitigated by investments in other sectors.<br>
+Keep your money distributed among different types of financial instruments like: fixed deposits, savings account, MFs, commodities, gold, real estate etc. (don't have to include all of them 😄, just an example). This is so your risk is distributed and the effects of a market crash in one sector (eg. real estate), are mitigated by investments in other sectors. *(This is what mutual funds do by the way.)*<br>
 For the nerds: [Modern Portfolio Theory - Diversification](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 #### Medical Emergencies
